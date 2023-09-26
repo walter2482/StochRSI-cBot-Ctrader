@@ -35,6 +35,10 @@ This C# robot, named "AEWMABot," is designed for automated trading in the cAlgo 
 
 The robot utilizes the StochasticRSIEWMASmoothing indicator for trading decisions based on momentum indicators. It opens and closes positions while considering risk management rules such as stop loss (recommended setting: 0), trailing stop, and maximum drawdown. The robot is designed to automate trading in the financial markets.
 
+![image](https://github.com/walter2482/cBot-s-Ctrader/assets/93685420/20ac71cd-91a4-4603-9ef0-16f28fc40dc1)
+
+
+
 ## StochasticRSIEWMASmoothing Indicator
 
 This C# indicator, named "StochasticRSIEWMASmoothing," is designed for financial market analysis in the cAlgo trading platform. It calculates the Stochastic RSI, a technical indicator, by combining the Relative Strength Index (RSI) with stochastic calculations. Users can customize parameters such as RSI periods, stochastic periods, and smoothing speed. The indicator provides two output series: "Stochastic RSI" and "Signal," aiding traders in making informed decisions based on market conditions and trends.
