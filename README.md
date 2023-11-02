@@ -33,7 +33,7 @@ This C# robot, named "AEWMABot," is designed for automated trading in the cAlgo 
 - **Threshold Buy:** Sets the buy threshold value.
 - **Threshold Sell:** Sets the sell threshold value.
 
-The robot utilizes the StochasticRSIEWMASmoothing indicator for trading decisions based on momentum indicators. It opens and closes positions while considering risk management rules such as stop loss (recommended setting: 0), trailing stop, and maximum drawdown. The robot is designed to automate trading in the financial markets.
+The robot utilizes the StochasticRSIEWMASmoothing indicator for trading decisions based on momentum indicators. It opens and closes positions while considering risk management rules such as stop loss (recommended setting: 0 and max operations 3), trailing stop, and maximum drawdown. The robot is designed to automate trading in the financial markets.
 
 ![image](https://github.com/walter2482/cBot-s-Ctrader/assets/93685420/20ac71cd-91a4-4603-9ef0-16f28fc40dc1)
 
